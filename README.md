@@ -1,3 +1,7 @@
+
+( should've done in python instead of Java)
+
+
 This is a script that will help u to determine if a website/Source can generate thumbnails 
 or not with given details.
 
